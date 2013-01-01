@@ -1,0 +1,15 @@
+Scripts for converting GPX track to KML for GoogleMaps/GoogleFusionTables upload
+
+gpxtimestamp.xsl  -- get first/last 'trkpt' node from GPX file
+
+kml2google.sh     -- upload KML track to GoogleFusion Table
+
+kml2kml.pl        -- simplify KML file
+
+kml2kml.sh        -- convert GPX to KML/simplify KML file
+
+kml2kml.xsl       -- not used
+
+mtk20121230_s.xml -- example GPX file
+
+mtk20121230_s.kml -- resulting KML file generated with kml2kml.sh
